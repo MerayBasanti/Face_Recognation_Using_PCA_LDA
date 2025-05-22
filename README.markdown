@@ -115,4 +115,4 @@ Feel free to fork this repository, make improvements, and submit pull requests. 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or issues, please open an issue on this repository or contact me at [your-email@example.com].
+For questions or issues, please open an issue on this repository or contact me at [meraybasanti@gmail.com].
